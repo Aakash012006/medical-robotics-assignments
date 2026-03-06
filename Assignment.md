@@ -8,17 +8,17 @@
 > [Notion page link]
 
 # 3 Poster Presentation
-> Pls upload the Poster in Google form link
+> [Pls upload the Poster in Google form link](https://drive.google.com/drive/folders/1-tpYurkHDzcUH_ZpRsWK-rgzaDDnrT-X)
 
 # 4 Project Report
-> Pls upload the Project Report PDF in Google form link
+> [Pls upload the Project Report PDF in Google form link](https://drive.google.com/drive/folders/1A1WiovvEbiAqwfDnPtypFUDN_VCIAvm1)
 
 # 5 Project Report in Claude Artifact
-> Submit the Claude Artifact URL link
+> [Submit the Claude Artifact URL link](https://claude.ai/public/artifacts/6fec873e-970d-4860-856f-c5d16fcf61be)
 > [Claude Artifact URL link]
 
 # 6 Project Explanation Video
-> Pls upload the Video in Google form link
+> [Pls upload the Video in Google form link](https://drive.google.com/drive/folders/1T7ZjfwES2d9sgjDFbgchFeWAKtOn-NyC)
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
