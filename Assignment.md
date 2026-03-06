@@ -1,10 +1,10 @@
 # Assignment Submissions
 
 # 1 Research Paper Presentation
-> Pls upload the PDF in Google form link
+> [Pls upload the PDF in Google form link](https://drive.google.com/drive/folders/1nvU1hAaAajDvTfAegwXOse4vwoxnWMMz)
 
 # 2 Case Study Documentation
-> Submit the Notion page link as the final submission
+> [Submit the Notion page link as the final submission](https://windy-check-742.notion.site/Case-Study-Technical-and-Clinical-Architecture-Analysis-of-the-DA-VINCI-SURGICAL-SYSTEM-31940f4bbcb6800ab9d8fbe82170ec74)
 > [Notion page link]
 
 # 3 Poster Presentation
